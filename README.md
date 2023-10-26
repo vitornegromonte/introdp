@@ -1,2 +1,2 @@
-# introdp
-Repositório com recursos e anotações da disciplina de introdução à aprendizado profundo do CIn
+# Introdução à aprendizagem profunda
+Repositório com recursos e anotações da disciplina de introdução à aprendizagem profunda do CIn [IF867]
