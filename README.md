@@ -1,4 +1,3 @@
-![xfs](xfs.png)
 > Implemeting some machine learning models from scratch using Python. The objective of this repository is to store notes and codes from my studies of machine learning (including base models and deep learning models).
 
 <details>

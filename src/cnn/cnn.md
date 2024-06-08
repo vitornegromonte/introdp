@@ -1,1 +1,0 @@
-# CNN models from scratch
